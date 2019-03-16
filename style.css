@@ -16,7 +16,7 @@ h1,p{color:#777;
     width:480;
     height: 25px;}
 section{
-    margin-top: 20px;
+    margin-top: 10px;
     background-color: #ebebeb;
     width: 50%;
     height: 200px;
@@ -32,7 +32,7 @@ header{
 }
 nav{
     margin-top: 20px;
-    height:100px;
+    height: 80px;
     width:960px;
 }
 footer{ 
@@ -40,7 +40,7 @@ footer{
     height:100px;
     width:960px;}
 aside{
-    margin-top: -1px;
+    margin-top: 10px;
     margin-left: 9px;
     width: 49%;
     height: 200px;
@@ -69,8 +69,7 @@ h1 {
     margin-bottom: 10px;
 }
 footer{
-    position: absolute;
-    bottom: 100px;
+    
 }
 p{
     text-align: left;
